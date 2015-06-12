@@ -1,0 +1,6 @@
+f29642a591f15aeef45639e9fde67ba8858238fbe79fb6093592a342404af5d7 *ubuntu-zesty-core-cloudimg-amd64-root.tar.gz
+a92a4ff9ce7610a2322fdcecccbeb387b6bbfe706e8b63ad4f8fbf81260a1a4a *ubuntu-zesty-core-cloudimg-arm64-root.tar.gz
+66811585e5816e909e42ca5d538eed552c48f6f3e2e3990c803c269fc56bca73 *ubuntu-zesty-core-cloudimg-armhf-root.tar.gz
+e1b11348bbdb0136398093da31780ca97f4d5e6f6ec5107f2847007e2899829c *ubuntu-zesty-core-cloudimg-i386-root.tar.gz
+995dbd459aa7d0ef1b8a1eb85d99583847f208bbe749a8a468d38386940f95a2 *ubuntu-zesty-core-cloudimg-ppc64el-root.tar.gz
+d1df81f752ba92499500e7d88c8fe1d8c8c332e8fe21bd9d2106471cf16a0ca6 *ubuntu-zesty-core-cloudimg-s390x-root.tar.gz
